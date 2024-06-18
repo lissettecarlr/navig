@@ -1,0 +1,29 @@
+- name: AnimatedDrawings
+  url: https://github.com/facebookresearch/AnimatedDrawings
+  img: /images/favicon.ico
+  description: 让儿童涂鸦动起来。
+
+- name: VPet
+  url: https://github.com/LorisYounger/VPet
+  img: /images/favicon.ico
+  description: 虚拟桌宠。
+
+- name: make.girls
+  url: https://make.girls.moe/#/
+  img: /images/favicon.ico
+  description: 在线生成虚拟角色。
+
+- name: imgpilot
+  url: https://www.imgpilot.com/
+  img: /images/favicon.ico
+  description: 通过描述和简笔画生成图像。
+
+- name: qr-designer
+  url: https://github.com/kochrt/qr-designer
+  img: /images/favicon.ico
+  description: 二维码设计。
+
+- name: girls
+  url: https://make.girls.moe/#/
+  img: /images/favicon.ico
+  description: 在线虚拟角色生成。

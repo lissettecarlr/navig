@@ -1,0 +1,36 @@
+- name: 【变声】voice-changer
+  url: https://github.com/w-okada/voice-changer
+  img: /images/logos/github.png
+  description: 实时语音转换器。
+
+- name: 【变声】Retrieval-based-Voice-Conversion-WebUI
+  url: https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+  img: /images/logos/github.png
+  description: 可通过web界面交互的变声框架，可推理可训练。
+
+- name: 【音频修改】vocalremover
+  url: https://vocalremover.org/
+  img: https://vocalremover.org/favicon.ico
+  description: 在线人声伴奏分离。
+
+- name: 【文本转语音】GPT-SoVITS
+  url: https://github.com/RVC-Boss/GPT-SoVITS
+  img: /images/logos/github.png
+  description: 1分钟的语音数据也可以用来训练一个很好的TTS模型!(少量镜头语音克隆)。
+
+- name: 【文本转语音】tortoise-tts
+  url: https://github.com/neonbjb/tortoise-tts
+  img: /images/logos/github.png
+  description: 注重质量的多语音 TTS 系统。
+
+- name: 【语音转文本】WhisperLive
+  url: https://github.com/collabora/WhisperLive
+  img: /images/logos/github.png
+  description: 基于Whisper的实时转录。
+
+- name: GoMusic
+  url: https://github.com/Bistutu/GoMusic
+  img: /images/logos/github.png
+  description: 迁移网易云/QQ音乐歌单至 Apple/Youtube/Spotify Music。
+
+

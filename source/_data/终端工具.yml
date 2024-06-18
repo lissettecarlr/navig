@@ -1,0 +1,24 @@
+- name: nvitop
+  url: https://github.com/XuehaiPan/nvitop
+  img: /images/logos/github.png
+  description: 交互式NVIDIA-GPU进程查看器。看显卡使用情况很方便。
+  
+- name: frogmouth
+  url: https://github.com/Textualize/frogmouth
+  img: /images/logos/github.png
+  description: 命令行的Markdown浏览器。
+  
+- name: toolong
+  url: https://github.com/Textualize/toolong
+  img: /images/logos/github.png
+  description: 终端日志查看工具。
+  
+- name: mcfly
+  url: https://github.com/cantino/mcfly
+  img: /images/logos/github.png
+  description: 浏览您的 shell 历史。
+  
+- name: curl命令
+  url: https://susam.net/blog/timing-with-curl.html
+  img: /images/favicon.ico
+  description: http请求测试。

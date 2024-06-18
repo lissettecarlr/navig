@@ -1,0 +1,50 @@
+- name: receive-smss
+  url: https://receive-smss.com/
+  img: /images/favicon.ico
+  description: SMS接收短信
+
+- name: sms-activate
+  url: https://sms-activate.org/cn
+  img: /images/favicon.ico
+  description: SMS接收短信
+
+- name: sms-man
+  url: https://sms-man.com/cn
+  img: /images/favicon.ico
+  description: SMS接收短信
+
+- name: grizzlysms
+  url: https://grizzlysms.com/cn/countries/japan
+  img: /images/favicon.ico
+  description: SMS接收短信
+
+- name: tiger-sms
+  url: https://tiger-sms.com/#howitworks
+  img: /images/favicon.ico
+  description: SMS接收短信
+
+- name: v2ray-agent
+  url: https://github.com/mack-a/v2ray-agent?tab=readme-ov-file
+  img: /images/logos/github.png
+  description: Xray、Tuic、hysteria2、sing-box 八合一一键脚本。
+
+- name: SSPanel-Uim
+  url: https://github.com/Anankke/SSPanel-Uim
+  img: /images/logos/github.png
+  description: 代理服务管理平台。
+
+- name: clash-rules
+  url: https://github.com/Loyalsoldier/clash-rules
+  img: /images/logos/github.png
+  description: Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
+
+- name: 【邮件代发】resend
+  url: https://resend.com/
+  img: /images/favicon.ico
+  description:
+
+- name: 【邮件代发】firefox
+  url: https://relay.firefox.com/
+  img: /images/favicon.ico
+  description:
+

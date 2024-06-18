@@ -1,0 +1,110 @@
+
+- name: DragGAN
+  url: 【内容修改】https://github.com/XingangPan/DragGAN
+  img: /images/logos/github.png
+  description: 通过拖动修改图像，例如更改表情，面朝方向等。挺有趣的，纠正摆姿什么的。
+
+- name: 【内容修改】clipdrop
+  url: https://clipdrop.co/relight
+  img: https://clipdrop.co/favicon.ico
+  description: 图片光影变化。
+
+- name: 【内容修改】lama-cleaner
+  url: https://github.com/Sanster/lama-cleaner
+  img: /images/logos/github.png
+  description: AI模型擦除多余物件。
+
+- name: 【内容修改】IOPaint
+  url: https://github.com/Sanster/IOPaint
+  img: /images/logos/github.png
+  description: 从照片中删除任何不需要的物体、缺陷、人物，或擦除并替换。
+
+- name: 【内容修改】gpupixel
+  url: https://github.com/pixpark/gpupixel
+  img: /images/logos/github.png
+  description: 实时图像滤镜和美颜。
+
+- name: 【内容修改】background-erase
+  url: https://background-erase.xyz/#about
+  img: https://background-erase.xyz/assets/favicon-32x32-QrfuIMp1.png
+  description: 在线图片背景消除
+
+- name: 【内容修改】remove
+  url: https://www.remove.bg/zh
+  img: https://www.remove.bg/favicon.ico?v=fc0bfce6e1310f1539afec9729716721
+  description: 在线图片背景消除
+
+- name: 【内容修改】styleof
+  url: https://styleof.com/s/remix-yourself
+  img: https://styleof.com/favicon.ico
+  description: 根据图片合成新图片
+
+- name: 【内容修改】removebg
+  url: https://twogether.ai/
+  img: /images/favicon.ico
+  description: 通过AI生成与名人的合照
+
+- name: 【图片压缩】tinypng
+  url: https://tinypng.com/
+  img: /images/favicon.ico
+  description: 在线图片压缩。使用过效果很好。
+
+- name: 【图片放大】upscayl/upscayl
+  url: https://github.com/upscayl/upscayl
+  img: /images/logos/github.png
+  description: AI图像放大器。
+
+- name: 【图片放大】Tohrusky/Final2x
+  url: https://github.com/Tohrusky/Final2x
+  img: /images/logos/github.png
+  description: 图像分辨率提升。
+
+- name: 【图片放大】bigjpg
+  url: https://bigjpg.com/
+  img: /images/favicon.ico
+  description: 在线AI图片放大器。
+
+- name: 【图片放大】inpaint-web
+  url: https://github.com/lxfater/inpaint-web
+  img: /images/logos/github.png
+  description: 开源的图片修复和超分辨率工具。
+
+- name: 【图片编辑】squoosh
+  url: https://squoosh.app/editor
+  img: https://squoosh.app/c/favicon-c9cf50ef.ico
+  description: 在线图片尺寸质量修改。
+
+- name: 【图片编辑】photopea
+  url: https://www.photopea.com/
+  img: /images/favicon.ico
+  description: 图片在线编辑器。
+
+- name: 【图片编辑】svgco
+  url: https://svgco.de/
+  img: https://svgco.de/favicon.png
+  description: PNG 等格式的图片转换为 SVG 矢量图片
+
+- name: 【图片搜索】yandex
+  url: https://yandex.com/
+  img: https://yandex.com/favicon.ico
+  description: 图片溯源。
+
+- name: 【图片搜索】trace.moe
+  url: https://trace.moe/
+  img: /images/favicon.ico
+  description: 动漫图片溯源。
+
+- name: 【图片搜索】pixiv
+  url: https://pic-image-search.kituin.fun/zh/
+  img: https://pic-image-search.kituin.fun/img/favicon.ico
+  description: 聚合识图引擎 用于以图搜源。
+
+- name: 【图片识别】simpletex
+  url: https://simpletex.cn/ai/latex_ocr
+  img: /images/favicon.ico
+  description: OCR公式识别。
+
+- name: 【图片识别】LaTeX-OCR
+  url: https://github.com/lukas-blecher/LaTeX-OCR
+  img: /images/logos/github.png
+  description: 公式识别。

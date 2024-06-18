@@ -1,0 +1,14 @@
+- name: MaaAssistantArknights
+  url: https://github.com/MaaAssistantArknights/MaaAssistantArknights
+  img: /images/favicon.ico
+  description: 《明日方舟》小助手，全日常一键长草。
+
+- name: saveeditonline
+  url: https://www.saveeditonline.com
+  img: /images/favicon.ico
+  description: RPG存档在线编辑器。
+
+- name: seiya-saiga
+  url: https://seiya-saiga.com/save.html
+  img: /images/favicon.ico
+  description: 游戏存档搜索。

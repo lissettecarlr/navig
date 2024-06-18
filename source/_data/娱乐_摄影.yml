@@ -1,0 +1,5 @@
+- name: kamera
+  url: https://github.com/besscroft/kamera
+  img: /images/favicon.ico
+  description: 一款专供摄影佬使用的记录网站。
+

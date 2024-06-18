@@ -1,0 +1,11 @@
+# 网络监控工具
+
+- name: louislam/uptime-kuma
+  url: https://github.com/louislam/uptime-kuma
+  img: /images/logos/github.png
+  description: 自部署的托管监控工具，支持多协议，docker部署。
+
+- name: MyIP
+  url: https://github.com/jason5ng32/MyIP/blob/main/README_ZH.md
+  img: /images/logos/github.png
+  description: IP工具箱，能够检测本机网络状态。

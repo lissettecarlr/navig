@@ -1,0 +1,209 @@
+favicon: /images/favicon.ico
+banner: /images/webstack_banner_cn.png
+
+logo:
+  expanded: /images/jiu-192x192.png
+  # collapsed: /images/logo-collapsed@2x.png
+  # dark: /images/logo_dark@2x.png
+
+flag:
+  - name: Chinese
+    default: true
+    icon: flag-cn
+    index: /index.html
+
+search: False
+
+userDefinedSearchData:
+  custom: false
+  thisSearch: https://www.baidu.com/s?wd=
+  thisSearchIcon: url(https://www.baidu.com/favicon.ico)
+  hotStatus: true
+  data:
+    - name: 百度
+      img: url(https://www.baidu.com/favicon.ico)
+      url: https://www.baidu.com/s?wd=
+
+
+expandAll: false # 是否将侧边栏全部展开
+# 侧边栏菜单设置
+# 图标：https://fontawesome.com/icons/video?f=classic&s=solid
+menu:
+  - name: 视频处理
+    icon: far fa-star
+    config: videoTools
+  - name: 媒体工具
+    icon: fas fa-tools
+    submenu:
+      - name: 视频工具
+        icon: fas fa-video
+        config: 媒体工具_视频工具
+      - name: 音频工具
+        icon: fas fa-headphones
+        config: 媒体工具_音频工具
+      - name: 图片工具
+        icon: fas fa-image
+        config: 媒体工具_图片工具
+      - name: 文本工具
+        icon: fas fa-blog
+        config: 媒体工具_文本工具
+
+  - name: 网络通信
+    icon: fas fa-tools
+    submenu:
+      - name: 网络测试
+        icon: fas fa-blog
+        config: 网络通信_网络测试
+      - name: 信息查询
+        icon: fas fa-blog
+        config: 网络通信_信息查询
+      - name: 多工具集合
+        icon: fas fa-blog
+        config: 网络通信_多工具集合
+      - name: 监控
+        icon: fas fa-blog
+        config: 网络通信_监控
+      - name: 数据传输
+        icon: fas fa-blog
+        config: 网络通信_数据传输
+  - name: 云服务
+    icon: fas fa-tools
+    submenu:
+      - name: 在线编辑器
+        icon: fas fa-blog
+        config: 云服务_在线编辑器
+      - name: 服务器商
+        icon: fas fa-blog
+        config: 云服务_服务器商
+      - name: 云存储
+        icon: fas fa-blog
+        config: 云服务_云存储
+      - name: 接口服务
+        icon: fas fa-blog
+        config: 云服务_接口服务
+      - name: 云应用
+        icon: fas fa-blog
+        config: 云服务_云应用
+  - name: 网络信息安全
+    icon: fas fa-tools
+    submenu:
+      - name: 破解
+        icon: fas fa-blog
+        config: 网络信息安全_破解
+      - name: 加密
+        icon: fas fa-blog
+        config: 网络信息安全_加密
+      - name: 代理
+        icon: fas fa-blog
+        config: 网络信息安全_代理
+      - name: 攻防
+        icon: fas fa-blog
+        config: 网络信息安全_攻防
+  - name: 娱乐
+    icon: fas fa-tools
+    submenu:
+      - name: 摄影
+        icon: fas fa-blog
+        config: 娱乐_摄影
+      - name: 游戏
+        icon: fas fa-blog
+        config: 娱乐_游戏
+      - name: 音乐
+        icon: fas fa-blog
+        config: 娱乐_音乐
+      - name: 直播源
+        icon: fas fa-blog
+        config: 娱乐_直播源
+      - name: 搜索下载
+        icon: fas fa-blog
+        config: 娱乐_影视
+  - name: 平台
+    icon: fas fa-tools
+    submenu:
+      - name: 信息
+        icon: fas fa-blog
+        config: 平台_信息
+      - name: 资源
+        icon: fas fa-tools
+        config: 平台_资源
+  - name: 其他
+    icon: fas fa-tools
+    submenu:
+      - name: 有趣的东西
+        icon: fas fa-blog
+        config: 有趣的东西
+      - name: 终端工具
+        icon: fas fa-blog
+        config: 终端工具
+      - name: 客户端工具
+        icon: fas fa-blog
+        config: 其他_客户端工具
+  
+
+
+
+myBlog:
+  - name: HCLonely Blog
+    url: https://blog.hclonely.com/
+    img: /images/logos/myBlog.png
+    description: 一个懒人的博客。
+
+about:
+  url: /about/
+  icon: far fa-heart
+  name: 关于本站
+
+aboutPage:
+  website:
+    head: 关于本站
+    html: '<blockquote><p>用于保存平日收藏的各个网站和仓库，减少浏览器书签栏负担</p></blockquote>'
+  webmaster:
+    head: 关于我
+    name: lissettecarlr
+    url: https://blog.kala.love/
+    img: /images/logos/favicon-32x32.png
+    description: 点击进入我的博客
+    #html: '<br /><blockquote><p>本站是<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
+
+since: 2024
+
+busuanzi:
+  enable: true
+  position: sidebar # 'footer','sidebar'
+  pv: 本站总访问量$pv
+  uv: 本站总访客数$uv
+
+custom:
+  head: |- # 以下内容插入到<head></head>标签内，可设置多行，注意每行开头至少四个空格
+    <!-- 直接添加html内容即可 -->
+    <!-- 可设置多行 -->
+  body: |- # 以下内容插入到</body>标签之前，可设置多行，注意每行开头至少四个空格
+    <!-- 直接添加html内容即可 -->
+    <!-- 可设置多行 -->
+
+js:
+  header: /js/header.js
+  footer: /js/footer.js
+  jquery: /js/jquery-1.11.1.min.js
+  bootstrap: /js/bootstrap.min.js
+  TweenMax: /js/TweenMax.min.js
+  resizeable: /js/resizeable.min.js
+  joinable: /js/joinable.js
+  xenonApi: /js/xenon-api.min.js
+  xenonToggles: /js/xenon-toggles.min.js
+  xenonCustom: /js/xenon-custom.min.js
+  lozad: /js/lozad.min.js
+  html5shiv: /js/html5shiv.min.js
+  respond: /js/respond.min.js
+  busuanzi: https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
+
+css:
+  hclonely: /css/hclonely.css
+  fonts: //fonts.loli.net/css?family=Arimo:400,700,400italic
+  linecons: /css/fonts/linecons/css/linecons.min.css
+  fontawesome: /css/fonts/fontawesome/css/all.min.css
+  bootstrap: /css/bootstrap.min.css
+  xenonCore: /css/xenon-core.min.css
+  xenonComponents: /css/xenon-components.min.css
+  xenonSkins: /css/xenon-skins.min.css
+  nav: /css/nav.min.css

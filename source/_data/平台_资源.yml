@@ -1,0 +1,31 @@
+- name: TrackersListCollection
+  url: https://github.com/XIU2/TrackersListCollection
+  img: /images/favicon.ico
+  description: BT Tracker 列表
+
+- name: trackerslist
+  url: https://github.com/ngosang/trackerslist
+  img: /images/favicon.ico
+  description: BT Tracker 列表
+
+- name: tgscan-dev/tgscan
+  url: https://github.com/tgscan-dev/tgscan
+  img: /images/favicon.ico
+  description: telegram搜索
+
+- name: 【搜书】xmsoushu
+  url: https://xmsoushu.com/#/
+  img: /images/favicon.ico
+  description: 熊猫搜书
+
+- name: msdn
+  url: msdn.itellyou.cn
+  img: /images/favicon.ico
+  description: 系统下载
+
+- name: microsoft
+  url: https://create.microsoft.com/en-us
+  img: /images/favicon.ico
+  description: 免费的ppt和excel表格模板
+
+

@@ -1,0 +1,65 @@
+- name: 【本文展示】jsoncrack
+  url: https://github.com/AykutSarac/jsoncrack.com
+  img: /images/logos/github.png
+  description: 数据可视化应用程序，能够将JSON、YAML、XML、CSV等数据格式可视化为交互式图形。
+
+- name: 【本文转换】tool.lu
+  url: https://tool.lu/timestamp/
+  img: /images/favicon.ico
+  description: 时间戳(Unix timestamp)转换工具。
+
+- name: 【本文转换】tool.lu
+  url: https://tool.lu/hexstr/
+  img: /images/favicon.ico
+  description: hex转str。
+
+- name: 【本文转换】markdowndown
+  url: https://markdowndown.vercel.app/
+  img: https://markdowndown.vercel.app/favicon.ico
+  description: 网页转化为markdown。
+
+- name: 【本文转换】f-loat
+  url: https://f-loat.github.io/caption2text/
+  img: https://f-loat.github.io/caption2text/favicon.ico
+  description: 字幕转文本，也就是去除字幕文件中的时间。
+
+- name: 【翻译】immersivetranslate
+  url: https://immersivetranslate.com/
+  img: https://immersivetranslate.com/img/favicon.svg
+  description: 浏览器翻译插件。能够显示原本和翻译文本，非常好用。
+
+- name: 【翻译】STranslate
+  url: https://github.com/ZGGSONG/STranslate
+  img: /images/logos/github.png
+  description: 一款即开即用、即用即走的翻译、OCR工具。网易云翻译经常卡死，于是找了个替换的。
+
+- name: 【翻译】afdian
+  url: https://afdian.net/@AdventCirno
+  img: https://static.afdiancdn.com/favicon.ico
+  description: 鬼才琪露诺的翻译引擎。目前日式RPG的云汉化基本全是用这个软件。
+
+- name: 【翻译】dango
+  url: https://translator.dango.cloud/
+  img: https://translator.dango.cloud/favicon.ico
+  description: 团子翻译器，属于OCR识别后翻译。
+
+- name: 【翻译】zggsong/stranslate
+  url: https://github.com/zggsong/stranslate
+  img: /images/logos/github.png
+  description: 开源翻译器。
+
+
+- name: 【PDF】Stirling-PDF
+  url: https://github.com/Frooodle/Stirling-PDF
+  img: /images/logos/github.png
+  description: 对PDF进行操作的web服务开源代码。
+
+- name: 【PDF】Stirling-PDF
+  url: https://github.com/Stirling-Tools/Stirling-PDF
+  img: /images/favicon.ico
+  description: 本地托管的 Web 应用程序，允许您对 PDF 文件执行各种操作。
+
+- name: it-tools
+  url: https://github.com/CorentinTh/it-tools
+  img: /images/logos/github.png
+  description: 为开发人员提供的方便的在线工具集合。docker一键部署。

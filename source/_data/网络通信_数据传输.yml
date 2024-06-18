@@ -1,0 +1,17 @@
+# 数据传输相关工具
+- name: horuspass
+  url: https://horuspass.com/send
+  img: /images/favicon.ico
+  description: 阅后即焚，在该网站输入文本后，生成一个只能阅读一次的链接。
+
+- name: tailscale
+  url: https://login.tailscale.com/
+  img: /images/favicon.ico
+  description: 内网穿透服务
+
+- name: mastodon
+  url: https://joinmastodon.org/servers
+  img: /images/favicon.ico
+  description: 开源去中心化社交网络。
+
+

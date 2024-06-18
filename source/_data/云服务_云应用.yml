@@ -1,0 +1,32 @@
+- name: web.archive
+  url: https://web.archive.org/
+  img: /images/favicon.ico
+  description: 能够通过域名查看web页面的历史样式。
+
+- name: landing-page-boilerplate
+  url: https://github.com/weijunext/landing-page-boilerplate/blob/main/README-zh.md
+  img: /images/favicon.ico
+  description: 一个通用的落地页模板，适合各种项目和营销活动。
+  
+- name: homepage
+  url: https://github.com/gethomepage/homepage
+  img: /images/favicon.ico
+  description: 自建导航页。
+  
+- name: dataease
+  url: https://github.com/dataease/dataease/
+  img: /images/favicon.ico
+  description: 开源数据分析工具。
+  
+- name: assimon/dujiaoka
+  url: https://github.com/assimon/dujiaoka
+  img: /images/favicon.ico
+  description: 独角数卡(自动售货系统)-开源站长自动化售货解决方案。
+  
+- name: 1Panel
+  url: https://github.com/1Panel-dev/1Panel
+  img: /images/favicon.ico
+  description: Linux 服务器运维管理面板。
+  
+
+

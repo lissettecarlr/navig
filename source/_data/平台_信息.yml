@@ -1,0 +1,34 @@
+- name: 【考试】examcoo
+  url: https://www.examcoo.com/index/ku
+  img: https://www.examcoo.com/favicon.ico
+  description: 考试酷-免费的考试信息
+
+- name: 【期刊】oalib
+  url: https://www.oalib.com/
+  img: https://www.oalib.com/favicon.ico
+  description: 一个开放的论文期刊图书馆
+
+- name: 【期刊】arxiv
+  url: https://arxiv.org/
+  img: https://arxiv.org/static/browse/0.3.4/images/icons/favicon-32x32.png
+  description: 开放的论文存储库
+
+- name: 【科技新闻】奇客资讯网
+  url: https://www.solidot.org/
+  img: https://www.solidot.org/favicon.ico
+  description: 
+
+- name: 【科技新闻】科技爱好者周刊
+  url: https://github.com/ruanyf/weekly
+  img: /images/logos/github.png
+  description: 
+
+- name: 【科技新闻】黑客新闻
+  url: https://news.ycombinator.com/
+  img: /images/favicon.ico
+  description:
+
+- name: 【技术论坛】V2EX
+  url: https://www.v2ex.com/
+  img: https://www.v2ex.com/static/favicon.ico
+  description:

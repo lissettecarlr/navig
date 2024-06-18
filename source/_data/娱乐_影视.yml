@@ -1,0 +1,24 @@
+- name: panyq
+  url: https://panyq.com
+  img: https://panyq.com/favicon.ico
+  description: 网盘资源搜索
+
+- name: 磁力猫
+  url: https://xn--vur557cbpe6y0c.lol/
+  img: /images/favicon.ico
+  description: 磁链搜索器
+
+- name: anybt
+  url: https://anybt.eth.limo/
+  img: /images/favicon.ico
+  description: 磁链搜索器
+
+- name: 电影天堂
+  url: https://www.dy2018.com/
+  img: https://www.dy2018.com/favicon.ico
+  description:
+
+- name: BT之家
+  url: https://www.btbtt13.com/
+  img: https://www.btbtt13.com/favicon.ico
+  description:

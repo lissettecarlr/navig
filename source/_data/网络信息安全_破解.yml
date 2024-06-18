@@ -1,0 +1,9 @@
+- name: Microsoft-Activation-Scripts
+  url: https://github.com/massgravel/Microsoft-Activation-Scripts
+  img: /images/favicon.ico
+  description: Windows 和 Office 激活器。
+
+- name: python-exe-unpacker
+  url: https://github.com/WithSecureLabs/python-exe-unpacker
+  img: /images/favicon.ico
+  description: 对 Python 打包的 exe 进行反编译。
