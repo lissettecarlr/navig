@@ -29,9 +29,6 @@ expandAll: false # 是否将侧边栏全部展开
 # 侧边栏菜单设置
 # 图标：https://fontawesome.com/icons/video?f=classic&s=solid
 menu:
-  - name: 视频处理
-    icon: far fa-star
-    config: videoTools
   - name: 媒体工具
     icon: fas fa-tools
     submenu:
@@ -168,7 +165,7 @@ aboutPage:
 since: 2024
 
 busuanzi:
-  enable: true
+  enable: false
   position: sidebar # 'footer','sidebar'
   pv: 本站总访问量$pv
   uv: 本站总访客数$uv
