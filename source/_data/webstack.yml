@@ -78,6 +78,9 @@ menu:
       - name: 接口服务
         icon: fas fa-blog
         config: 云服务_接口服务
+      - name: 运维
+        icon: fas fa-blog
+        config: 云服务_运维
       - name: 云应用
         icon: fas fa-blog
         config: 云服务_云应用
@@ -140,10 +143,10 @@ menu:
 
 
 myBlog:
-  - name: HCLonely Blog
-    url: https://blog.hclonely.com/
-    img: /images/logos/myBlog.png
-    description: 一个懒人的博客。
+  - name: lissetteacrlr
+    url: https://kala.love/
+    img: /images/logos/favicon-32x32.png
+    description: 
 
 about:
   url: /about/

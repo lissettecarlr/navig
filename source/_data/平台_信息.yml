@@ -32,3 +32,8 @@
   url: https://www.v2ex.com/
   img: https://www.v2ex.com/static/favicon.ico
   description:
+
+- name: web.archive
+  url: https://web.archive.org/
+  img: /images/favicon.ico
+  description: 能够通过域名查看web页面的历史样式。

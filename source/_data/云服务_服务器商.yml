@@ -18,6 +18,11 @@
   img: /images/favicon.ico
   description:
 
+- name: aws
+  url: https://aws.amazon.com/cn/
+  img: https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico
+  description:
+
 - name: linode
   url: https://www.linode.com/zh/pricing/
   img: /images/favicon.ico
