@@ -126,6 +126,9 @@ menu:
       - name: 资源
         icon: fas fa-tools
         config: 平台_资源
+      - name: 搜索
+        icon: fas fa-blog
+        config: 平台_搜索
   - name: 其他
     icon: fas fa-tools
     submenu:

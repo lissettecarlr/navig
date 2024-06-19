@@ -22,3 +22,8 @@
   url: https://portrait.tuchong.com/
   img: /images/favicon.ico
   description:
+
+- name: 1x
+  url: https://1x.com/
+  img: https://1x.com/favicon.ico
+  description: 照片社区
