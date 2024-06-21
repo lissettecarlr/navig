@@ -20,5 +20,9 @@
   img: /images/logos/github.png
   description: 独角数卡(自动售货系统)-开源站长自动化售货解决方案。
   
+- name: 【工具集合】it-tools
+  url: https://github.com/CorentinTh/it-tools
+  img: /images/logos/github.png
+  description: 为开发人员提供的方便的在线工具集合。docker一键部署。
 
 
