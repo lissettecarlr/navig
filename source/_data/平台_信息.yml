@@ -28,6 +28,11 @@
   img: /images/favicon.ico
   description:
 
+- name: 中国独立开发者项目列表
+  url: https://github.com/1c7/chinese-independent-developer
+  img: /images/logos/github.png
+  description:
+
 - name: 【技术论坛】V2EX
   url: https://www.v2ex.com/
   img: https://www.v2ex.com/static/favicon.ico

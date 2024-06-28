@@ -8,10 +8,7 @@
   img: /images/favicon.ico
   description: BT Tracker 列表
 
-- name: tgscan-dev/tgscan
-  url: https://github.com/tgscan-dev/tgscan
-  img: /images/favicon.ico
-  description: telegram搜索
+
 
 - name: 【搜书】xmsoushu
   url: https://xmsoushu.com/#/
@@ -28,4 +25,7 @@
   img: /images/favicon.ico
   description: 免费的ppt和excel表格模板
 
-
+- name: 【软件下载】羽兔网
+  url: https://www.yutu.cn/popsoft.html
+  img: https://static.yutu.cn/yutu/images/course/nav_icon.png
+  description:
