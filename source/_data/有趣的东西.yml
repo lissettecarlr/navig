@@ -33,3 +33,8 @@
   url: https://ikaomoji.com/
   img: https://ikaomoji.com/favicon.ico
   description: 
+
+- name: 丑陋头像生成
+  url: https://github.com/txstc55/ugly-avatar
+  img: https://txstc55.github.io/ugly-avatar/avatar.png
+  description: 生成类手绘的丑陋头像

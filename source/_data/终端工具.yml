@@ -22,3 +22,8 @@
   url: https://susam.net/blog/timing-with-curl.html
   img: /images/favicon.ico
   description: http请求测试。
+
+- name: progress命令
+  url: https://github.com/Xfennec/progress
+  img: /images/logos/github.png
+  description: Linux 命令行工具，让 cp、mv、dd 等操作显示进度条。

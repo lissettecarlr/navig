@@ -59,7 +59,3 @@
   img: /images/favicon.ico
   description: 本地托管的 Web 应用程序，允许您对 PDF 文件执行各种操作。
 
-- name: it-tools
-  url: https://github.com/CorentinTh/it-tools
-  img: /images/logos/github.png
-  description: 为开发人员提供的方便的在线工具集合。docker一键部署。

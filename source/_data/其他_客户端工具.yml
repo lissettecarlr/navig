@@ -59,3 +59,8 @@
   url: https://www.thunderbird.net/zh-CN/
   img: https://www.thunderbird.net/media/img/thunderbird/favicon.ico
   description: 邮件客户端。
+
+- name: Sunshine  
+  url: https://github.com/LizardByte/Sunshine
+  img: /images/logos/github.png
+  description: 低延迟的视频串流工具，可以从各种设备上的任何Moonlight客户端连接到Sunshine
