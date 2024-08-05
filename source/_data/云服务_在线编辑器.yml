@@ -13,7 +13,7 @@
   img: https://excalidraw.com/favicon.ico
   description: 
 
-- name: mahua
+- name: 【markdown】mahua
   url: https://mahua.jser.me/
   img: /images/favicon.ico
   description: 在线markdown编辑器
@@ -37,3 +37,8 @@
   url: https://www.latexlive.com/##
   img: /images/favicon.ico
   description: 在线LaTeX公式编辑器。
+
+- name: 【hex】hexed
+  url: https://hexed.it/
+  img: https://hexed.it/favicon.ico
+  description: 在线Hex编辑器。
