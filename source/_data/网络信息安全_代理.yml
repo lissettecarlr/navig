@@ -49,6 +49,6 @@
   description:
 
 - name: 【docker代理】好心人测试过的站点
-  url: https://github.com/cmliu/CF-Workers-docker.io/issues/8
+  url: https://github.com/cmliu/CF-Workers-docker.io
   img: /images/logos/github.png
   description: 一个github代码仓库的issues

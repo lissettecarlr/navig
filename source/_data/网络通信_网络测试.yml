@@ -35,4 +35,8 @@
   img: /images/logos/github.png
   description: 测试IPv4解锁情况，流媒体平台及游戏区域限制测试。
 
-
+- name: CloudflareSpeedTest
+  url: https://github.com/XIU2/CloudflareSpeedTest
+  img: /images/logos/github.png
+  description: 测试 Cloudflare CDN 延迟和速度，获取最快 IP，然后修改host后提升访问对于网站速度
+  

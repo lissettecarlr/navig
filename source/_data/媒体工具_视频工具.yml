@@ -44,4 +44,7 @@
   description: 在线ffmpeg
 
 
-  
+- name: 【视频压缩】videozip
+  url: https://www.videozip.online/
+  img: https://www.videozip.online/favicon.ico
+  description: 视频压缩、转码和导出音频功能

@@ -50,11 +50,6 @@
 
 
 - name: 【PDF】Stirling-PDF
-  url: https://github.com/Frooodle/Stirling-PDF
-  img: /images/logos/github.png
-  description: 对PDF进行操作的web服务开源代码。
-
-- name: 【PDF】Stirling-PDF
   url: https://github.com/Stirling-Tools/Stirling-PDF
   img: /images/favicon.ico
   description: 本地托管的 Web 应用程序，允许您对 PDF 文件执行各种操作。

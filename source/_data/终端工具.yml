@@ -27,3 +27,9 @@
   url: https://github.com/Xfennec/progress
   img: /images/logos/github.png
   description: Linux 命令行工具，让 cp、mv、dd 等操作显示进度条。
+
+
+- name: bandwhich
+  url: https://github.com/imsnif/bandwhich
+  img: /images/logos/github.png
+  description: 这是一个 CLI 实用程序，用于按进程、连接和远程 IP/主机名显示当前的网络利用率
