@@ -15,10 +15,10 @@
   img: /images/favicon.ico
   description: 熊猫搜书
 
-- name: msdn
-  url: msdn.itellyou.cn
+- name: windows系统下载
+  url: https://www.microsoft.com/zh-cn/software-download/windows11
   img: /images/favicon.ico
-  description: 系统下载
+  description: 直接去microsoft官网下载，不推荐其他地方。
 
 - name: microsoft
   url: https://create.microsoft.com/en-us

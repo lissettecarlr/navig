@@ -49,6 +49,12 @@
   img: /images/favicon.ico
   description: 在线图片压缩。使用过效果很好。
 
+- name: 【图片压缩】ompressjpg
+  url:   https://compressjpg.io/
+  img: /images/favicon.ico
+  description: 批量压缩
+
+
 - name: 【图片放大】upscayl/upscayl
   url: https://github.com/upscayl/upscayl
   img: /images/logos/github.png

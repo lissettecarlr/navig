@@ -24,3 +24,8 @@
   url: https://www.colasoft.com.cn/download/capsa.php
   img: https://www.colasoft.com.cn/favicon.ico
   description: 科来网络分析系统是网络故障分析、数字安全取证、协议分析学习等使用场景的“利器”
+
+- name: UptimeFlare
+  url: https://github.com/lyc8503/UptimeFlare
+  img: /images/logos/github.png
+  description: 免费且无服务器的正常运行时间监控/状态页面，使用 Cloudflare Workers，支持地理特定检查

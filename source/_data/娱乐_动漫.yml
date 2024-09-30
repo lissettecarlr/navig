@@ -1,0 +1,20 @@
+- name: ACG.RIP
+  url: https://acgrip.art
+  img: /images/favicon.ico
+  description: 动画磁链下载
+
+- name: comicat
+  url: https://www.comicat.org
+  img: /images/favicon.ico
+  description: 动画磁链下载
+
+- name: 動漫花園資源網
+  url: https://share.dmhy.org
+  img: /images/favicon.ico
+  description: 
+
+- name: wallhaven
+  url: https://wallhaven.cc/
+  img: https://wallhaven.cc/images/layout/logo.png
+  description: 壁纸网
+
