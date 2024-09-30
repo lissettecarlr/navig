@@ -18,3 +18,8 @@
   img: https://wallhaven.cc/images/layout/logo.png
   description: 壁纸网
 
+
+- name: Kazumi
+  url: https://github.com/Predidit/Kazumi
+  img: /images/logos/github.png
+  description: 在线看番剧的应用，支持多平台
