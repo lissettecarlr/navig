@@ -45,7 +45,7 @@
 
 - name: 快捷键备忘录
   url: https://hotkeycheatsheet.com/zh
-  img: https://hotkeycheatsheet.com/favicon.ico
+  img: /images/favicon.ico
   description: 通过提供常用快捷键的快速访问来帮助用户提高生产力。
 
 - name: 城市租房手册

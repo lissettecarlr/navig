@@ -5,6 +5,12 @@
   img: /images/favicon.ico
   description: 
 
+- name: 【网速测试】自部署的speedtest
+  url: https://github.com/librespeed/speedtest
+  img: /images/logos/github.png
+  description: 
+
+
 - name: 【连通性测试】ping.pe
   url: https://ping.pe/
   img: /images/favicon.ico

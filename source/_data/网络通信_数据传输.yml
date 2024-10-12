@@ -15,3 +15,7 @@
   description: 开源去中心化社交网络。
 
 
+- name: enclosed
+  url: https://github.com/CorentinTh/enclosed
+  img: /images/logos/github.png
+  description: 设计用于发送私人和安全笔记的极简网络应用程序。
