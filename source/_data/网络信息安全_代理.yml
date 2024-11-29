@@ -52,3 +52,9 @@
   url: https://github.com/cmliu/CF-Workers-docker.io
   img: /images/logos/github.png
   description: 一个github代码仓库的issues
+
+- name: 【代理】trojan可web交互的代理
+  url: https://github.com/Jrohy/trojan
+  img: /images/logos/github.png
+  description: docker部署可以参考:https://hub.docker.com/r/agassiz/trojan
+

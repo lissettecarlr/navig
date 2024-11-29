@@ -90,6 +90,13 @@
   img: https://svgco.de/favicon.png
   description: PNG 等格式的图片转换为 SVG 矢量图片
 
+- name: 【图片编辑】svg.la
+  url: https://svg.la/zh/
+  img: https://svg.la/images/logo.svg
+  description: 文本图片转 SVG 矢量图片
+
+
+
 - name: 【图片搜索】yandex
   url: https://yandex.com/
   img: https://yandex.com/favicon.ico

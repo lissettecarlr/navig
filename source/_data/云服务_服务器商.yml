@@ -16,7 +16,12 @@
 - name: 搬瓦工
   url: https://bandwagonhost.com/services
   img: /images/favicon.ico
-  description:
+  description: 目前使用这家，稳定便宜
+
+- name: dmit
+  url: https://www.dmit.io/
+  img: /images/favicon.ico
+  description: 听说比搬瓦工能好，等打折的时候试试
 
 - name: aws
   url: https://aws.amazon.com/cn/
