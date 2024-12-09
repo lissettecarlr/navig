@@ -49,3 +49,10 @@
   url: https://namebeta.com/
   img: https://namebeta.com/favicon.ico
   description: 
+
+
+- name: 【用户信息查询】maigret
+  url: https://github.com/soxoj/maigret
+  img: /images/logos/github.png
+  description: 通过用户名从数千个网站收集一个人的档案
+

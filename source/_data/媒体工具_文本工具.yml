@@ -54,3 +54,9 @@
   img: /images/favicon.ico
   description: 本地托管的 Web 应用程序，允许您对 PDF 文件执行各种操作。
 
+
+- name: 【PDF】MinerU
+  url: https://github.com/opendatalab/MinerU
+  img: /images/logos/github.png
+  description: 站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
+
