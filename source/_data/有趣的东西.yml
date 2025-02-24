@@ -38,3 +38,14 @@
   url: https://github.com/txstc55/ugly-avatar
   img: https://txstc55.github.io/ugly-avatar/avatar.png
   description: 生成类手绘的丑陋头像
+
+
+- name: 【AI合照】removebg
+  url: https://twogether.ai/
+  img: /images/favicon.ico
+  description: 通过AI生成与名人的合照
+
+- name: 【内容修改】styleof
+  url: https://styleof.com/s/remix-yourself
+  img: https://styleof.com/favicon.ico
+  description: 根据图片合成新图片

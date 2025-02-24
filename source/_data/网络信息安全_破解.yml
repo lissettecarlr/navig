@@ -7,3 +7,8 @@
   url: https://github.com/WithSecureLabs/python-exe-unpacker
   img: /images/favicon.ico
   description: 对 Python 打包的 exe 进行反编译。
+
+- name: 【JS反混淆】humanify
+  url: https://github.com/jehna/humanify
+  img: /images/logos/github.png
+  description: 使用 ChatGPT 对 Javascript 代码进行去混淆。

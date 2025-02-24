@@ -56,3 +56,7 @@
   img: /images/logos/github.png
   description: 通过用户名从数千个网站收集一个人的档案
 
+- name: 【查询子域名】subdomain
+  url: https://www.subdomain.center/
+  img: https://www.subdomain.center/images/logo.png
+  description: 子域中心在网络上搜寻，收集和解读来自互联网各地的数据

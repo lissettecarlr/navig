@@ -18,7 +18,12 @@
 - name: windows系统下载
   url: https://www.microsoft.com/zh-cn/software-download/windows11
   img: /images/favicon.ico
-  description: 直接去microsoft官网下载，不推荐其他地方。
+  description: microsoft官网下载
+
+- name: 【windows和Office下载】massgrave
+  url: https://massgrave.dev/genuine-installation-media
+  img: /images/favicon.ico
+  description: 破解工具massgrave提供的下载
 
 - name: microsoft
   url: https://create.microsoft.com/en-us

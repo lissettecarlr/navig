@@ -60,3 +60,9 @@
   img: /images/logos/github.png
   description: 站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
 
+- name: 【PDF】PDFMathTranslate
+  url: https://github.com/Byaidu/PDFMathTranslate/blob/main/README_zh-CN.md
+  img: /images/logos/github.png
+  description: 基于 AI 完整保留排版的 PDF 文档全文双语翻译。
+
+

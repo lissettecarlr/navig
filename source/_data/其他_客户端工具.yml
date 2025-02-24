@@ -64,3 +64,8 @@
   url: https://github.com/LizardByte/Sunshine
   img: /images/logos/github.png
   description: 低延迟的视频串流工具，可以从各种设备上的任何Moonlight客户端连接到Sunshine
+
+- name: 【API工具】bruno  
+  url: https://github.com/usebruno/bruno/releases
+  img: /images/logos/github.png
+  description: Bruno 是一款全新且创新的 API 客户端，旨在颠覆 Postman 和其他类似工具

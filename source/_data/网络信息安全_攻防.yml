@@ -23,3 +23,9 @@
   url: https://waf-ce.chaitin.cn/
   img: https://waf-ce.chaitin.cn/favicon.ico
   description: 
+
+
+- name: pipet
+  url: https://github.com/bjesus/pipet
+  img: /images/logos/github.png
+  description: 用于从在线资产中抓取和提取数据的瑞士军刀工具，专为黑客设计

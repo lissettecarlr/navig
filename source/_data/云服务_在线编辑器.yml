@@ -42,3 +42,8 @@
   url: https://hexed.it/
   img: https://hexed.it/favicon.ico
   description: 在线Hex编辑器。
+
+- name: 【流程图】drawio
+  url: https://app.diagrams.net/
+  img: https://app.diagrams.net/favicon.ico
+  description: 在线流程图工具。

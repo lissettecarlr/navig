@@ -132,6 +132,9 @@ menu:
       - name: 搜索
         icon: fas fa-blog
         config: 平台_搜索
+      - name: 金融
+        icon: fas fa-blog
+        config: 平台_金融
   - name: 其他
     icon: fas fa-tools
     submenu:

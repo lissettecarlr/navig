@@ -34,15 +34,6 @@
   img: https://www.remove.bg/favicon.ico?v=fc0bfce6e1310f1539afec9729716721
   description: 在线图片背景消除
 
-- name: 【内容修改】styleof
-  url: https://styleof.com/s/remix-yourself
-  img: https://styleof.com/favicon.ico
-  description: 根据图片合成新图片
-
-- name: 【内容修改】removebg
-  url: https://twogether.ai/
-  img: /images/favicon.ico
-  description: 通过AI生成与名人的合照
 
 - name: 【图片压缩】tinypng
   url: https://tinypng.com/
@@ -121,3 +112,5 @@
   url: https://github.com/lukas-blecher/LaTeX-OCR
   img: /images/logos/github.png
   description: 公式识别。
+
+

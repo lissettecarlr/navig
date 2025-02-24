@@ -57,3 +57,9 @@
   url: https://github.com/521xueweihan/HelloGitHub/tree/master
   img: /images/logos/github.png
   description: 分享 GitHub 上有趣、入门级的开源项目
+
+- name: 科学辟谣
+  url: https://www.cdstm.cn/subjects/kxlyb/
+  img: /images/favicon.ico
+  description: 中国数字科技馆
+
